@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains the work done by Sergio Vittorio Zambelli, Giorgio D'Ambrosio e Fabio Chiarini as part of our cybersecurity master's program at the University of Pisa. For our first project, we chose to explore a case study regarding **Clearview AI** and its potential violations of the **General Data Protection Regulation (GDPR)** in Europe. We analyzed this case, summarized the relevant documentation, and explained key aspects of the GDPR, as well as emerging regulations related to AI. Our findings were presented in front of the class as part of our exam.
+This repository contains the work done by **Sergio Vittorio Zambelli**, **Giorgio D'Ambrosio** e **Fabio Chiarini** as part of our cybersecurity master's program at the University of Pisa. For our first project, we chose to explore a case study regarding **Clearview AI** and its potential violations of the **General Data Protection Regulation (GDPR)** in Europe. 
+We analyzed this case, summarized the relevant documentation, and explained key aspects of the GDPR, as well as emerging regulations related to AI. Our findings were presented in front of the class as part of our exam.
 
 ## Project Details
 
